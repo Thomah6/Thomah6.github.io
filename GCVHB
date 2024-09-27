@@ -1,0 +1,63 @@
+    <div class="timeline">
+
+        <div class="timeline-empty">
+        </div>
+
+
+        <div class="timeline-middle">
+            <div class="timeline-circle"></div>
+        </div>
+        <div class="timeline-component timeline-content">
+            <h3>DALMA Minting</h3>
+            <p>• 1 Kaspa (KAS) per mint.<br />
+                • Each mint provides 57,400 DALMA tokens.<br />
+                • A total of 475,000 mints ensures progressive and controlled distribution.
+            </p>
+        </div>
+        <div class="timeline-component timeline-content">
+            <h3>Premint Fund Distribution (5%)</h3>
+            <p>• Team: A portion will be allocated to developers and contributors for long-term motivation.<br />
+                • Liquidity (DEX): A reserve for liquidity to guarantee smooth trading on decentralized exchanges.<br />
+                • Marketing: Used for promotional campaigns to attract the crypto community and Dalmatian lovers.<br />
+                • CEX Listings: Funds reserved for securing listings on major centralized exchanges, increasing token visibility and liquidity.
+            </p>
+        </div>
+
+        <div class="timeline-middle">
+            <div class="timeline-circle"></div>
+        </div>
+        <div class="timeline-empty">
+        </div>
+
+        <div class="timeline-empty">
+        </div>
+
+        <div class="timeline-middle">
+            <div class="timeline-circle"></div>
+        </div>
+        <div class=" timeline-component timeline-content">
+            <h3>Long-Term Vision</h3>
+            <p>
+                • 100% Community-Driven: DALMA is committed to being a project where the community holds power.<br />
+                • Strengthening Community Engagement: The project will host exclusive events, form partnerships with animal-related organizations, and run contests to maintain excitement and involvement.<br />
+                • Education and Adoption: We aim for DALMA to introduce newcomers to blockchain and cryptocurrency while staying accessible to experienced users.</p>
+            </p>
+
+
+        </div>
+        <div class=" timeline-component timeline-content">
+            <h3>DALMA Launch</h3>
+            <p>• Official launch on the KRC-20 blockchain.<br />
+                • Minting starts at 1 KAS for 57,400 DALMA.<br />
+                • Initial liquidity deployment on DEXs.<br />
+
+            </p>
+
+
+        </div>
+        <div class="timeline-middle">
+            <div class="timeline-circle"></div>
+        </div>
+
+    </div>
+    </div>
