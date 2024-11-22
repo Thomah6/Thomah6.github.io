@@ -1,7 +1,7 @@
 {
-    "name": "PWA Gestion des Contacts",
-    "short_name": "Contacts",
-    "start_url": "./",
+    "name": "Contax",
+    "short_name": "Contax",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6200ea",
@@ -10,11 +10,6 @@
         "src": "icons/icon-192x192.png",
         "type": "image/png",
         "sizes": "192x192"
-      },
-      {
-        "src": "icons/icon-512x512.png",
-        "type": "image/png",
-        "sizes": "512x512"
       }
     ]
   }
